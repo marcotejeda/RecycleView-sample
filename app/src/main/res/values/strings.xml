@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Androidx-RecycleView-Sample</string>
+    <string name="main_title">Bands</string>
+</resources>
